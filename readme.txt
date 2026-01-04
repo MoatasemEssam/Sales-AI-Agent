@@ -1,10 +1,8 @@
-# 🤖 Autonomous Sales Intelligence Agent (SAB-AI)
-
 An end-to-end MLOps pipeline that automates corporate sales research and personalized outreach. This agent researches a company's recent business news in real-time and generates a high-conversion sales pitch.
 
----
 
-## 🏗️ System Architecture
+
+## System Architecture
 This project implements a **Decoupled Agentic Architecture**:
 - **AI Brain:** Built with `LangGraph` for stateful, multi-step reasoning.
 - **Service Layer:** `FastAPI` backend for high-performance model serving.
@@ -13,7 +11,7 @@ This project implements a **Decoupled Agentic Architecture**:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Layer | Technology |
 | :--- | :--- |
 | **Orchestration** | LangGraph (Agentic Design) |
@@ -25,7 +23,7 @@ This project implements a **Decoupled Agentic Architecture**:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - Python 3.10+
